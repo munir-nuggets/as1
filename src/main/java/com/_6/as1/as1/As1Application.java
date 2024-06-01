@@ -1,0 +1,13 @@
+package com._6.as1.as1;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class As1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(As1Application.class, args);
+	}
+
+}
